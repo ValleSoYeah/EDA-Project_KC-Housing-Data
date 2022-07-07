@@ -134,6 +134,7 @@ data/*.tsv
 data/*.zip
 data/*.gsv
 data/*.json
+data/*.png
 
 # models
 models/*.pickle
