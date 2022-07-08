@@ -129,15 +129,13 @@ dmypy.json
 .pyre/
 
 # data
-data/*.csv
 data/*.tsv
 data/*.zip
 data/*.gsv
 data/*.json
 data/*.png
 
-# keep original data
-#! King_County_House_prices_dataset.csv
+
 
 # models
 models/*.pickle
